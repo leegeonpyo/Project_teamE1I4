@@ -1,8 +1,8 @@
 # 🌟 E1I4TeamProject 🌟
 
-<p align="center">
-  <img src="src/main/resources/static/images/메인.jpg" alt="프로젝트 메인 이미지"/>
-</p>
+
+<img src="src/main/resources/static/images/메인.jpg" alt="프로젝트 메인 이미지"/>
+
 
 ## 개요 ✨
 이 프로젝트는 평범한 물품 판매 사이트와 달리 강의 중심의 쇼핑몰 사이트를 구축하는 것을 목표로 하였습니다. 사용자 경험을 중시하며, 사용자의 지속적인 참여와 관리가 가능하도록 설계되었습니다.
@@ -14,7 +14,7 @@
 - [주요 기능](#주요-기능)
 - [기능시연 영상](#기능시연-영상)
 - [향후 개선 사항](#향후-개선-사항)
-- [연락처](#연락처)
+
 
 ## 프로젝트 배경 📜
 이 프로젝트는 평범한 물품 판매 사이트와 달리 강의 중심의 쇼핑몰 사이트를 구축하는 것을 목표로 하였습니다. 사용자 경험을 중시하며, 사용자의 지속적인 참여와 관리가 가능하도록 설계되었습니다.
@@ -27,6 +27,20 @@
 - **(팀원) 조ㅇㅇ**: INDEX 페이지, 1:1 문의내역, NAVER API
 
 ## 기술 스택 🛠
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
 - **프로젝트명**: E1i4TeamProject
 - **프로그래밍 언어**: JAVA
 - **프레임워크**: Springboot 2.7.11
@@ -59,31 +73,29 @@
 ## 기능시연 영상
 
 ### 상점게시판 작성시연 영상
-<img src="https://private-user-images.githubusercontent.com/154856555/342218564-971acb3d-ae12-4bba-bad9-f243c4ca71e1.gif">
+![1차create](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/3b2b3ba8-6853-402f-80b9-0acfa910ce60)
 
 ### 댓글작성 및 삭제
-<img src="https://private-user-images.githubusercontent.com/154856555/342241984-832f4714-1b5e-4ebc-bf41-16187307bd51.gif">
+![1차댓글1](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/a368d7f1-5af9-476d-856f-a0182b233dce)
 
 ### 게시판 수정 삭제
-<img src="https://private-user-images.githubusercontent.com/154856555/342243111-7f489686-a39c-478b-a8c2-25d87009fa7a.gif">
+![1차수정삭제](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/74b4892e-5b59-467d-8381-1b8d7d1326cc)
 
 ### 페이징 서치
-<img src="https://private-user-images.githubusercontent.com/154856555/342255255-bb3d9265-5bc7-43d5-af65-5f37414ddca6.gif">
+![페이징서치](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/149e728e-f104-48cd-a9c5-238cad235db4)
+
 
 ### 좋아요 기능
-<img src="https://private-user-images.githubusercontent.com/154856555/342256046-813620f4-e56f-4647-ab07-f39975ef45eb.gif">
+![like](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/de5ef513-b8a0-427a-8569-06ce99fc6957)
 
 ### 장바구니
-<img src="https://private-user-images.githubusercontent.com/154856555/342258814-1e571c8c-1b55-42e2-aac5-4d0a388f18e4.gif">
+![장바구니](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/0fea4947-7feb-47cd-bffe-60bbb05d3bc9)
 
 ### 메인페이지 Top Like 순
-<img src="https://private-user-images.githubusercontent.com/154856555/342259533-e4e7cbee-fec1-4894-bd66-468beee17236.gif">
+![좋아요](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/b65d4afd-632a-456f-8a24-b758c970f77d)
 
 ## 향후 개선 사항
-프로젝트 처음 시작할 때는 시간이 많은 줄 알았습니다. 첫 프로젝트이기도 하고, 우리 팀원들이 욕심이 많아서 하고 싶은 것들이 많다 보니 생각보다 구현하지 못한 것이 많고, 더 예쁘게 할 수 있었는데 시간에 쫓겨서 포기한 것이 많아서 아쉽습니다. 더 사용자들에게 편리한 쇼핑몰 게시판으로 구현하고 싶습니다.
+프로젝트 처음 시작할 때는 시간이 많은 줄 알았습니다. 첫 프로젝트이기도 하고, 우리 팀원들이 욕심이 많아서 하고 싶은 것들이 많다 보니 생각보다 구현하지 못한 것이 많고, 더 예쁘게 할 수 있었는데 시간에 쫓겨서 포기한 것이 많아서 아쉽습니다. 사용자들에게 더 편리한 쇼핑몰 게시판으로 구현하고 싶습니다.
 
-## 연락처
-추가적인 문의나 정보가 필요하시면 아래 연락처로 연락해 주세요.
 
-- 이메일: example@example.com
-- 전화번호: 010-1234-5678
+
