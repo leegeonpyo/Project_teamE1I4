@@ -12,12 +12,13 @@
 이 프로젝트는 평범한 물품 판매 사이트와 달리 강의 중심의 쇼핑몰 사이트를 구축하는 것을 목표로 하였습니다. 사용자 경험을 중시하며, 사용자의 지속적인 참여와 관리가 가능하도록 설계되었습니다.
 
 ## 목차 📚
-- [프로젝트 배경](#프로젝트-배경)
-- [팀원구성 및 역할](#팀원구성-및-역할)
-- [기술 스택](#기술-스택-🛠)
-- [주요 기능](#주요-기능)
-- [기능시연 영상](#기능시연-영상)
-- [향후 개선 사항](#향후-개선-사항)
+- [프로젝트 배경](#프로젝트-배경-)
+- [프로젝트 일정](#프로젝트-일정-)
+- [팀원구성 및 역할](#팀원구성-및-역할-)
+- [기술 스택](#기술-스택-)
+- [주요 기능](#주요-기능-)
+- [기능시연 영상](#기능시연-영상-)
+- [향후 개선 사항](#향후-개선-사항-)
 
 
 ## 프로젝트 배경 📜
@@ -27,7 +28,11 @@
 >
 > 더 투명하고 신뢰할 수 있는 정보를 제공하여 적극적인 참여를 유도하였다.
 
-## 팀원구성 및 역할
+## 프로젝트 일정 🗓️
+<img src="src/main/resources/static/images/일정.png" alt="프로젝트일정"/> 
+
+
+## 팀원구성 및 역할 👥
 - **(팀장) 박ㅇㅇ**: DB설계, 회원 CRUD, OAuth2, Security, CI/CD
 - **(팀원) 심ㅇㅇ**: 게시판 CRUD (커뮤니티, 공지사항, 수강후기), NAVER API
 - **(팀원) 손ㅇㅇ**: 관리자 페이지, Chatbot, 강사소개 페이지, 메뉴바, INDEX 애니메이션 기능
@@ -48,6 +53,8 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+
 
 - **프로젝트명**: E1i4TeamProject
 - **프로그래밍 언어**: JAVA
@@ -60,7 +67,7 @@
 - **빌드**: Gradle
 - **설정**: application.yml, application-oauth2.yml
 
-## 주요 기능
+## 주요 기능 🚀
 ### SHOP(CRUD)
 | NO | 기능         | 설명                                                                 |
 |----|--------------|----------------------------------------------------------------------|
@@ -78,7 +85,7 @@
 | 2  | 장바구니 삭제  | 장바구니에서 개별 목록 삭제와 전체 삭제 기능 구현     |
 | 3  | 장바구니 조회  | 장바구니로 이동 시 자기가 담은 장바구니 리스트 확인 가능 |
 
-## 기능시연 영상
+## 기능시연 영상 🎬
 
 ### 상점게시판 작성시연 영상
 ![1차create](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/3b2b3ba8-6853-402f-80b9-0acfa910ce60)
@@ -102,7 +109,7 @@
 ### 메인페이지 Top Like 순
 ![좋아요](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/b65d4afd-632a-456f-8a24-b758c970f77d)
 
-## 향후 개선 사항
+## 향후 개선 사항 🔧
 프로젝트 처음 시작할 때는 시간이 많은 줄 알았습니다. 첫 프로젝트이기도 하고, 우리 팀원들이 욕심이 많아서 하고 싶은 것들이 많다 보니 생각보다 구현하지 못한 것이 많고, 더 예쁘게 할 수 있었는데 시간에 쫓겨서 포기한 것이 많아서 아쉽습니다. 사용자들에게 더 편리한 쇼핑몰 게시판으로 구현하고 싶습니다.
 
 
