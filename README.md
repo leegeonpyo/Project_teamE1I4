@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 </p>
+
 - **프로젝트명**: E1i4TeamProject
 - **프로그래밍 언어**: JAVA
 - **프레임워크**: Springboot 2.7.11
