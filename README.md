@@ -40,6 +40,7 @@
 - **(팀원) 조ㅇㅇ**: INDEX 페이지, 1:1 문의내역, NAVER API
 
 ## 기술 스택 🛠
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -54,8 +55,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-
-
+</p>
 - **프로젝트명**: E1i4TeamProject
 - **프로그래밍 언어**: JAVA
 - **프레임워크**: Springboot 2.7.11
@@ -110,8 +110,22 @@
 ![좋아요](https://github.com/leegeonpyo/Project_teamE1I4/assets/154856555/b65d4afd-632a-456f-8a24-b758c970f77d)
 
 ## 향후 개선 사항 🔧
-프로젝트 처음 시작할 때는 시간이 많은 줄 알았습니다. 첫 프로젝트이기도 하고, 우리 팀원들이 욕심이 많아서 하고 싶은 것들이 많다 보니 생각보다 구현하지 못한 것이 많고, 더 예쁘게 할 수 있었는데 시간에 쫓겨서 포기한 것이 많아서 아쉽습니다. 사용자들에게 더 편리한 쇼핑몰 게시판으로 구현하고 싶습니다.
 
+프로젝트를 처음 시작할 때는 시간이 충분할 것이라 생각했지만, 예상보다 많은 기능을 구현하고 싶어하다 보니 시간 부족으로 인해 일부 기능을 완성하지 못하고, 디자인적으로도 만족스럽지 않은 부분들이 남아 아쉬움이 있습니다. 앞으로의 개선 사항은 다음과 같습니다:
+
+1. **기능 완성도 향상**
+    - 팀원들이 욕심 내어 계획했던 다양한 기능들을 완성하여, 사용자들에게 더욱 완벽한 서비스를 제공하고자 합니다.
+
+2. **UI/UX 개선**
+    - 시간에 쫓겨 포기했던 디자인 부분을 개선하여, 사용자들이 더 편리하고 직관적으로 이용할 수 있는 쇼핑몰 게시판을 구현하겠습니다.
+
+3. **효율적인 시간 관리**
+    - 프로젝트 일정 관리와 우선순위 설정을 통해, 제한된 시간 내에 최대한의 성과를 낼 수 있도록 하겠습니다.
+
+4. **팀원들의 의견 반영**
+    - 팀원들이 제안한 기능과 아이디어들을 최대한 반영하여, 팀원 모두가 만족할 수 있는 결과물을 만들어 나가겠습니다.
+
+앞으로 프로젝트를 진행할 때는 이러한 개선 사항들을 바탕으로, 더 나은 결과물을 만들기 위해 노력하겠습니다.
 
 
 **[⬆ 위로 가기](#이건표-1차-프로젝트)**
